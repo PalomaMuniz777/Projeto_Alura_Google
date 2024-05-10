@@ -1,5 +1,6 @@
 # Projeto_Alura_Google
 Monitor de Impacto Ambiental com Chatbot em Python e Google Colab
+
 Introdução:
 
 Este aplicativo utiliza um chatbot em Python e a API do Google Studio para auxiliar os usuários a medirem seu impacto ambiental individual e receberem sugestões personalizadas para reduzir esse impacto. O aplicativo é executado no Google Colab e utiliza um layout interativo para tornar a experiência do usuário mais amigável.
